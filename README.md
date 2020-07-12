@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi, I'm Vitaly 👋
 
+![](Dino_non-birthday_version.gif)
 <!--
 **goncharenko/goncharenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
