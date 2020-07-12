@@ -1,6 +1,8 @@
 ### Hi, I'm Vitaly 👋
 
-![vitaly-about](https://github.com/goncharenko/goncharenko/blob/master/Dino_non-birthday_version.gif)
+<p align="center">
+<img src="https://github.com/goncharenko/goncharenko/blob/master/Dino_non-birthday_version.gif" alt="Vitaly about" />
+</p>
 <!--
 **goncharenko/goncharenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
