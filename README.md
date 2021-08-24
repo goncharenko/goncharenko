@@ -1,4 +1,4 @@
-### Hi, I'm Vitaly 👋
+# <p align="center">Hi 👋, I'm Vitaly</p>
 
 <p align="center">
 <img src="https://github.com/goncharenko/goncharenko/blob/master/Dino_non-birthday_version.gif" alt="Vitaly about" />
