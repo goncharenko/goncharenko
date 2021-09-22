@@ -6,7 +6,3 @@
 
 - 🤔 I’m on twitter: https://twitter.com/vgoncharenko
 - 📫 How to reach me: https://vitaliks.me
-
-<a href="https://github.com/goncharenko">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=goncharenko&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Goncharenko's github stats" />
-</a>
