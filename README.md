@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-vitalygoncharenko-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitalygoncharenko/)](https://www.linkedin.com/in/vitalygoncharenko/)
 <img align="right" src="https://komarev.com/ghpvc/?username=goncharenko" alt="goncharenko" />
 <p>
-CTO & Co-Founder at WTFox.ai. Founder of HoverBot. Based in Singapore. Building AI products that solve real business problems.
+CTO & Co-Founder at WTFox.ai(https://www.wtfox.ai). Founder of HoverBot(https://www.hoverbot.ai). Based in Singapore. Building AI products that solve real business problems.
 </p>
 <p align="center">
 <img src="https://github.com/goncharenko/goncharenko/blob/master/Dino_non-birthday_version.gif" alt="Vitaly about" />
